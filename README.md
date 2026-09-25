@@ -20,7 +20,7 @@ Developed machine learning models using text, image, and metadata features to pr
 
 Worked with Sentence-BERT text embeddings, CLIP image embeddings, metadata features, and a PyTorch fusion model.
 
-### Human Activity Recognition
+### [Human Activity Recognition](https://github.com/jesseymt/human-activity-recognition)
 Analyzed wearable sensor data across six human activities using feature selection and multiple linear regression, with model evaluation and residual analysis.
 
 ## Currently
