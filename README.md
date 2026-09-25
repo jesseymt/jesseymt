@@ -15,7 +15,7 @@ Contributed to an 11-member team developing a social event discovery and recomme
 
 **1st Place — UNLV Computer Science Senior Design Competition**
 
-### Multimodal Engagement Prediction
+### [Multimodal Engagement Prediction](https://github.com/jesseymt/multimodal-engagement-prediction)
 Developed machine learning models using text, image, and metadata features to predict social media engagement across nearly 100,000 aligned samples.
 
 Worked with Sentence-BERT text embeddings, CLIP image embeddings, metadata features, and a PyTorch fusion model.
