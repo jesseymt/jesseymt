@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Jessey
 
-<!--
-**jesseymt/jesseymt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recent Computer Science graduate from the University of Nevada, Las Vegas (UNLV) interested in software development, backend systems, and machine learning.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python, Java, C++, SQL  
+**Data & ML:** PyTorch, scikit-learn, Pandas, NumPy  
+**Development:** Git, GitHub, MySQL/MariaDB, Convex
+
+## Projects
+
+### FOMO — Senior Design Capstone
+Contributed to an 11-member team developing a social event discovery and recommendation platform. My work included backend changes involving time-based friend recommendation refresh logic, along with testing and team Git workflows.
+
+**1st Place — UNLV Computer Science Senior Design Competition**
+
+### Multimodal Engagement Prediction
+Developed machine learning models using text, image, and metadata features to predict social media engagement across nearly 100,000 aligned samples.
+
+Worked with Sentence-BERT text embeddings, CLIP image embeddings, metadata features, and a PyTorch fusion model.
+
+### Human Activity Recognition
+Analyzed wearable sensor data across six human activities using feature selection and multiple linear regression, with model evaluation and residual analysis.
+
+## Currently
+
+Seeking entry-level software engineering and software development opportunities.
